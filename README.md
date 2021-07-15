@@ -57,3 +57,6 @@ This bot needs a Linux system, Node JS version 15 or newer with the packages spe
 -   Painor ([GramJS](https://github.com/gram-js/gramjs))
 -   Vitaly Domnikov ([Telegraf](https://github.com/telegraf/telegraf))
 -   Lonami ([Telethon](https://github.com/lonami/telethon))
+
+
+[![Deploy to RAILWAY]https://railway.app/new/template?template=https://github.com/PATRICIAGANG/callsmusic2&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH)
