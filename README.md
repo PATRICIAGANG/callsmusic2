@@ -59,4 +59,4 @@ This bot needs a Linux system, Node JS version 15 or newer with the packages spe
 -   Lonami ([Telethon](https://github.com/lonami/telethon))
 
 
-[![Deploy to RAILWAY]https://railway.app/new/template?template=https://github.com/PATRICIAGANG/callsmusic2&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH)
+[![Deploy to RAILWAY](https://railway.app/new/template?template=https://github.com/PATRICIAGANG/callsmusic2&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH)
